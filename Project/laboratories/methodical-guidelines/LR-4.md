@@ -121,7 +121,7 @@
 
 *Рисунок 1 — Диаграмма контейнеров (C4: Container) архитектуры Data Lake для IoT-данных.*
 
-![Диаграмма контейнеров (C4: Container) архитектуры Data Lake для IoT-данных](./images/Image1.png)
+![Диаграмма контейнеров (C4: Container) архитектуры Data Lake для IoT-данных](./images/Image6.png)
 
 #### 3.2.2. Многозонная структура Data Lake
 
@@ -131,7 +131,7 @@
 
 *Рисунок 2 — Многозонная модель Data Lake (Raw / Curated / Consumption).*
 
-![Многозонная модель Data Lake (Raw / Curated / Consumption)](./images/Image2.png)
+![Многозонная модель Data Lake (Raw / Curated / Consumption)](./images/Image7.png)
 
 *Для своего варианта укажите конкретные форматы (например, JSON в Raw, Parquet в Curated), принцип партиционирования (по времени, по типу датчика) и то, какие метаданные будут регистрироваться в каталоге метаданных для каждой зоны.*
 
