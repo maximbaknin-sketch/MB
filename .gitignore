@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+*.xlsx
+!data/krm-v3.0.xlsx
+!data/roles.xlsx
